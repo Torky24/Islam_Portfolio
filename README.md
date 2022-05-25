@@ -8,6 +8,8 @@
 * Scaled data accordingly.
 * Used Monte Carlo method to predict P - I diagrams.
 * P - I diagrams could potentially be used to assist engineers to design walls that could withstand certain explosions. Potentially saving lives.
+* ANN yielded the best test accuracy.
+* Only train/dev set, not train/dev/test since the dataset was too small.
 * Both publications are in PDF format.
 
 
