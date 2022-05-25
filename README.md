@@ -15,14 +15,13 @@
 
 
 
-<div align="center">
+
 | Model  | R Score | RMSE | Max Error Percetange % |
 | ------------- | ------------- | ------------- | ------------- |
 | MVLR | 0.83  | 1.74  |  179%  |
 | RFR (100 Trees)  | 0.99  |  0.22  |  26%  |
 | Polynomial Reg. (2nd Degree) | 0.95  |  0.924  |  38%  |
 | RFR (100 Trees)  | -  |  0.35  |  20%  |
-</div>
 
 
 
