@@ -14,7 +14,10 @@
 * Both publications are in PDF format.
 
 
-Predicted P - Diagrams
+<p align="center">
+    Predicted P - Diagrams
+</p>
+
 <p align="center">
   <img 
     width="300"
@@ -24,7 +27,11 @@ Predicted P - Diagrams
 </p>
 
 
-Ideal P - Diagrams
+
+<p align="center">
+    Ideal P - Diagrams
+</p>
+
 <p align="center">
   <img 
     width="300"
@@ -34,7 +41,9 @@ Ideal P - Diagrams
 </p>
 
 
-Ideal P - Diagrams
+<p align="center">
+    Data Distribution
+</p>
 <p align="center">
   <img 
     width="300"
@@ -49,4 +58,13 @@ Ideal P - Diagrams
 * Using OOP methods, to avoid sphagetti code.
 * Well documented.
 
-![Game Of Life](https://github.com/Torky24/Islam_Portfolio/blob/main/images/Pattern%202%20-%2010th%20Gen.png)
+<p align="center">
+    Game Of Life
+</p>
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/Pattern%202%20-%2010th%20Gen.png"
+  >
+</p>
