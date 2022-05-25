@@ -13,13 +13,15 @@
 * Only train/dev set, not train/dev/test since the dataset was too small.
 * Both publications are in PDF format.
 
-Model	R Score	RMSE	Error Percentage %
-MVLR	0.83	1.74	179%
-RFR
-(100 Trees)	0.99	0.22	26%
-Polynomial Reg.
-(2nd Degree)	0.95	0.924	38%
-ANN	-	0.35	20%
+
+| Model  | R Score | RMSE | Max Error Percetange % |
+| ------------- | ------------- | ------------- | ------------- |
+| MVLR | 0.83  | 1.74  |  179%  |
+| RFR (100 Trees)  | 0.99  |  0.22  |  26%  |
+| Polynomial Reg. (2nd Degree) | 0.95  |  0.924  |  38%  |
+| RFR (100 Trees)  | -  |  0.35  |  20%  |
+
+
 
 
 
@@ -43,7 +45,7 @@ ANN	-	0.35	20%
 
 <p align="center">
   <img 
-    width="300"
+    width="500"
     height="300"
     src="images/ideal%20p%20-%20i%20diagram.png"
   >
@@ -57,7 +59,7 @@ ANN	-	0.35	20%
   <img 
     width="300"
     height="300"
-    src="=images/data%20distribution.png"
+    src="images/data%20distribution.png"
   >
 </p>
 
