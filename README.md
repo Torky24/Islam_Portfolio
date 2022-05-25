@@ -13,6 +13,15 @@
 * Only train/dev set, not train/dev/test since the dataset was too small.
 * Both publications are in PDF format.
 
+Model	R Score	RMSE	Error Percentage %
+MVLR	0.83	1.74	179%
+RFR
+(100 Trees)	0.99	0.22	26%
+Polynomial Reg.
+(2nd Degree)	0.95	0.924	38%
+ANN	-	0.35	20%
+
+
 
 <p align="center">
     Predicted P - Diagrams
