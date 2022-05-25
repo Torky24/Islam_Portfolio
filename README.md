@@ -2,7 +2,8 @@
 * Project 1 entails my bachelor's thesis (Python)
 * Project 2 is the game of life with a GUI (Java)
 
-# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview] (https://github.com/Torky24/Islam_Portfolio/blob/main/P-I%20Diagram%20ANN.py)
+
+# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%201)
 * Data is of several masonry walls, and steel girts under the effect of explosions.
 * Cleaned the data and used it to apply multiple learning algorithms. (In this repisotory only the ANN is available)
 * Scaled data accordingly.
