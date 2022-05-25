@@ -3,7 +3,7 @@
 * Project 2 is the game of life with a GUI (Java)
 
 
-# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%201)
+# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project)
 * Data is of several masonry walls, and steel girts under the effect of explosions.
 * Cleaned the data and used it to apply multiple learning algorithms. (In this repisotory only the ANN is available)
 * Scaled data accordingly.
@@ -53,7 +53,7 @@
 </p>
 
 
-# [Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%202)
+# [Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Java%20Projects/Game%20Of%20Life%20Project)
 * Creating and developing game of life on Java.
 * Using OOP methods, to avoid sphagetti code.
 * Well documented.
