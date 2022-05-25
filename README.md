@@ -1,6 +1,6 @@
 # Islam Torky Portfolio
-* First project entails my bachelor's thesis (Python)
-* Second project is the game of life with a GUI (Java)
+* Project 1 entails my bachelor's thesis (Python)
+* Project 2 is the game of life with a GUI (Java)
 
 # Project 1 (Bachelor's Thesis as well as two publications): Project Overview
 * Data is of several masonry walls, and steel girts under the effect of explosions.
@@ -9,3 +9,9 @@
 * Used Monte Carlo method to predict P - I diagrams.
 * P - I diagrams could potentially be used to assist engineers to design walls that could withstand certain explosions. Potentially saving lives.
 * Both publications are in PDF format.
+
+
+# Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview
+* Creating and developing game of life on Java.
+* Using OOP methods, to avoid sphagetti code.
+* Well documented.
