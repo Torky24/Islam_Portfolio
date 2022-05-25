@@ -48,7 +48,7 @@
   <img 
     width="300"
     height="300"
-    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/data%20distribution.png"
+    src="=images/data%20distribution.png"
   >
 </p>
 
