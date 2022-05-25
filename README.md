@@ -5,7 +5,7 @@
 
 # [Project 1 (Bachelor's Thesis as well as two publications): Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project)
 * Data is of several masonry walls, and steel girts under the effect of explosions.
-* Cleaned the data and used it to apply multiple learning algorithms. (In this repisotory only the ANN is available)
+* Cleaned the data and used it to apply multiple learning algorithms.
 * Scaled data accordingly.
 * Used Monte Carlo method to predict P - I diagrams.
 * P - I diagrams could potentially be used to assist engineers to design walls that could withstand certain explosions. Potentially saving lives.
