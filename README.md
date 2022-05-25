@@ -13,8 +13,8 @@
 * Only train/dev set, not train/dev/test since the dataset was too small.
 * Both publications are in PDF format.
 
-![Final Predicted P - I Diagrams](https://github.com/Torky24/Islam_Portfolio/blob/main/images/Predicted%20P%20-%20I%20Diagrams.png)
-![Ideal P - I Diagrams](https://github.com/Torky24/Islam_Portfolio/blob/main/images/ideal%20p%20-%20i%20diagram.png)
+    ![Final Predicted P - I Diagrams](https://github.com/Torky24/Islam_Portfolio/blob/main/images/Predicted%20P%20-%20I%20Diagrams.png)
+    ![Ideal P - I Diagrams](https://github.com/Torky24/Islam_Portfolio/blob/main/images/ideal%20p%20-%20i%20diagram.png)
 
 
 # [Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%202)
