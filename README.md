@@ -14,7 +14,7 @@
 * Both publications are in PDF format.
 
 
-# Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview
+# [Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%202)
 * Creating and developing game of life on Java.
 * Using OOP methods, to avoid sphagetti code.
 * Well documented.
