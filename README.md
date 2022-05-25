@@ -22,21 +22,21 @@
   <img 
     width="300"
     height="300"
-    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/Predicted%20P%20-%20I%20Diagrams.png"
+    src="/images/Predicted%20P%20-%20I%20Diagrams.png"
   >
 </p>
 
 
 
 <p align="center">
-    Ideal P - Diagrams
+    Ideal P - I Diagrams
 </p>
 
 <p align="center">
   <img 
     width="300"
     height="300"
-    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/ideal%20p%20-%20i%20diagram.png"
+    src="/images/ideal%20p%20-%20i%20diagram.png"
   >
 </p>
 
@@ -65,6 +65,6 @@
   <img 
     width="300"
     height="300"
-    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/Pattern%202%20-%2010th%20Gen.png"
+    src="/images/Pattern%202%20-%2010th%20Gen.png"
   >
 </p>
