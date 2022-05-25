@@ -14,6 +14,7 @@
 * Both publications are in PDF format.
 
 
+Predicted P - Diagrams
 <p align="center">
   <img 
     width="300"
@@ -23,14 +24,24 @@
 </p>
 
 
-Ideal P - I Diagrams
-![Ideal P - I Diagrams](https://github.com/Torky24/Islam_Portfolio/blob/main/images/ideal%20p%20-%20i%20diagram.png)
+Ideal P - Diagrams
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/ideal%20p%20-%20i%20diagram.png"
+  >
+</p>
 
 
-Data Distribution
-![Data Distribution](https://github.com/Torky24/Islam_Portfolio/blob/main/images/data%20distribution.png)
-
-
+Ideal P - Diagrams
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/data%20distribution.png"
+  >
+</p>
 
 
 # [Project 2 (Part of Object Oriented Programming Master's Course) Game Of Life: Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Project%202)
