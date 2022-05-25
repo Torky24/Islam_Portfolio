@@ -3,7 +3,7 @@
 * Project 2 is the game of life with a GUI (Java)
 
 
-# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview](https://github.com/Torky24/Islam_Portfolio/tree/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project)
+# [Project 1 (Bachelor's Thesis as well as two publications): Project Overview - Machine Learning](https://github.com/Torky24/Islam_Portfolio/tree/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project)
 * Data is of several masonry walls, and steel girts under the effect of explosions.
 * Cleaned the data and used it to apply multiple learning algorithms.
 * Scaled data accordingly.
