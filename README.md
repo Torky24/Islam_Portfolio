@@ -11,7 +11,8 @@
 * P - I diagrams could potentially be used to assist engineers to design walls that could withstand certain explosions. Potentially saving lives.
 * ANN yielded the best test accuracy.
 * Only train/dev set, not train/dev/test since the dataset was too small.
-* Both publications are in PDF format.
+* [INCOOPERATIMG MACHIINE LEARNING FOR RAPID BLAST RESILENCE](https://github.com/Torky24/Islam_Portfolio/blob/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project/INCOOPERATIMG%20MACHIINE%20LEARNING%20FOR%20RAPID%20BLAST%20RESILENCE.pdf)
+* [Machine Learning Applications For Blast Performance Assessment of Cold Formed Steel Girt Systems](https://github.com/Torky24/Islam_Portfolio/blob/main/Python%20Projects/Bachelor's%20Thesis%20%26%20Publications%20Project/Machine%20Learning%20Applications%20For%20Blast%20Performance%20Assessment%20of%20Cold%20Formed%20Steel%20Girt%20Systems%20(1).pdf)
 
 
 
