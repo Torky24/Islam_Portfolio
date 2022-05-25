@@ -18,7 +18,7 @@
   <img 
     width="300"
     height="300"
-    src="https://picsum.photos/300/300](https://github.com/Torky24/Islam_Portfolio/blob/main/images/Predicted%20P%20-%20I%20Diagrams.png"
+    src="https://github.com/Torky24/Islam_Portfolio/blob/main/images/Predicted%20P%20-%20I%20Diagrams.png"
   >
 </p>
 
